@@ -9,7 +9,7 @@ Nguồn: Bộ Y tế Việt Nam<br>
 出典：ベトナム保健省<br>
 <br>
 files are scheduled to be updated on holidays at the beginning of each month.<br>
-Dự kiến lịch cập nhật file là các ngày nghỉ đầu mỗi tháng.<br>
-各月上旬の休日に更新予定<br>
+Dự kiến lịch cập nhật file là các ngày nghỉ của đầu mỗi tháng.<br>
+毎月上旬の休日に更新予定<br>
 <br>
 <br>
