@@ -1,6 +1,6 @@
 # list-of-daily-new-positive-cases-of-covid19-by-province-in-Vietnam-by-day--updated-monthly-
 
-※downloadフォルダーにベトナム地図あります。
+※downloadフォルダーにベトナム地図(PDF形式)があります。
 
 Detailed table for daily number of new positive cases of COVID-19 by province in Vietnam from 20/03/2021.<br>
 Danh sách số ca nhiễm mới mỗi ngày của COVID-19 theo thành phố/tỉnh tại Việt Nam từ ngày 20/03/2021.<br>
