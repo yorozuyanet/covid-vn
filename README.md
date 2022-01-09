@@ -1,4 +1,4 @@
-# list-of-daily-new-positive-cases-of-covid19-by-province-in-Vietnam-by-day--updated-monthly-
+# dataset-of-daily-new-positive-cases-of-covid19-by-province-in-Vietnam
 
 ※downloadフォルダーにベトナム地図(PDF形式)があります。
 
